@@ -5,8 +5,13 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Wpf_Binding"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
-    <Grid>
-        
-    </Grid>
+        Title="Gestion Banque" Height="450" Width="800">
+    <StackPanel>
+        <Menu Height="20">
+            <MenuItem Header="Comptes"></MenuItem>
+            <MenuItem Header="Clients"></MenuItem>
+            <MenuItem Header="Mouvements"></MenuItem>
+            <MenuItem Header="Virements"></MenuItem>
+        </Menu>
+    </StackPanel>
 </Window>

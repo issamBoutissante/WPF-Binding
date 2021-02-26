@@ -1,0 +1,16 @@
+C:\Users\bouti\source\repos\Wpf Binding\Wpf Binding\bin\Debug\Wpf Binding.exe.config
+C:\Users\bouti\source\repos\Wpf Binding\Wpf Binding\bin\Debug\Wpf Binding.exe
+C:\Users\bouti\source\repos\Wpf Binding\Wpf Binding\bin\Debug\Wpf Binding.pdb
+C:\Users\bouti\source\repos\Wpf Binding\Wpf Binding\obj\Debug\Wpf Binding.csprojAssemblyReference.cache
+C:\Users\bouti\source\repos\Wpf Binding\Wpf Binding\obj\Debug\MainWindow.g.cs
+C:\Users\bouti\source\repos\Wpf Binding\Wpf Binding\obj\Debug\App.g.cs
+C:\Users\bouti\source\repos\Wpf Binding\Wpf Binding\obj\Debug\Wpf Binding_MarkupCompile.cache
+C:\Users\bouti\source\repos\Wpf Binding\Wpf Binding\obj\Debug\Wpf Binding_MarkupCompile.lref
+C:\Users\bouti\source\repos\Wpf Binding\Wpf Binding\obj\Debug\MainWindow.baml
+C:\Users\bouti\source\repos\Wpf Binding\Wpf Binding\obj\Debug\Wpf Binding.g.resources
+C:\Users\bouti\source\repos\Wpf Binding\Wpf Binding\obj\Debug\Wpf_Binding.Properties.Resources.resources
+C:\Users\bouti\source\repos\Wpf Binding\Wpf Binding\obj\Debug\Wpf Binding.csproj.GenerateResource.cache
+C:\Users\bouti\source\repos\Wpf Binding\Wpf Binding\obj\Debug\Wpf Binding.csproj.CoreCompileInputs.cache
+C:\Users\bouti\source\repos\Wpf Binding\Wpf Binding\obj\Debug\Wpf Binding.exe
+C:\Users\bouti\source\repos\Wpf Binding\Wpf Binding\obj\Debug\Wpf Binding.pdb
+C:\Users\bouti\source\repos\Wpf Binding\Wpf Binding\obj\Debug\Comptes.g.cs

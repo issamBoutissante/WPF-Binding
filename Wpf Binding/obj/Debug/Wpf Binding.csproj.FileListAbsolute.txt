@@ -14,3 +14,4 @@ C:\Users\bouti\source\repos\Wpf Binding\Wpf Binding\obj\Debug\Wpf Binding.csproj
 C:\Users\bouti\source\repos\Wpf Binding\Wpf Binding\obj\Debug\Wpf Binding.exe
 C:\Users\bouti\source\repos\Wpf Binding\Wpf Binding\obj\Debug\Wpf Binding.pdb
 C:\Users\bouti\source\repos\Wpf Binding\Wpf Binding\obj\Debug\Comptes.g.cs
+C:\Users\bouti\source\repos\Wpf Binding\Wpf Binding\obj\Debug\Comptes.baml

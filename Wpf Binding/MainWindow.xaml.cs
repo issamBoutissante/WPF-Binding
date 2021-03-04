@@ -23,6 +23,7 @@ namespace Wpf_Binding
         public MainWindow()
         {
             InitializeComponent();
+
         }
     }
 }

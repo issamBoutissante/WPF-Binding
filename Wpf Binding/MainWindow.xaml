@@ -7,11 +7,9 @@
         mc:Ignorable="d"
         Title="Gestion Banque" Height="450" Width="800">
     <StackPanel>
-        <Menu Height="20">
-            <MenuItem Header="Comptes"></MenuItem>
-            <MenuItem Header="Clients"></MenuItem>
-            <MenuItem Header="Mouvements"></MenuItem>
-            <MenuItem Header="Virements"></MenuItem>
-        </Menu>
+        <TabControl>
+            <TabItem x:Name="comptes" Header="Comptes">
+            </TabItem>
+        </TabControl>
     </StackPanel>
 </Window>
